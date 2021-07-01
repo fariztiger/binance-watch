@@ -3,7 +3,7 @@
 
     <div class="push-bottom">
       <div class="form-label push-bottom">
-        Binance Price Watch Web App <i class="icon-down-open"></i>
+        Polybees Network Price Watch Web App <i class="icon-down-open"></i>
       </div>
       <p>
         This application connects to the <a class="text-primary-hover" @click="goBinance" href="#">Binance.com</a>
@@ -29,8 +29,8 @@
         Author  Links &amp; Donation <i class="icon-down-open"></i>
       </div>
       <div class="push-bottom">
-        <a class="icon-globe iconLeft" href="https://rainnerlins.com/" target="_blank">Rainner Lins</a> &nbsp;
-        <a class="icon-ghub iconLeft" href="https://hithub.com/raintek" target="_blank">Github Profile</a> &nbsp;
+        <a class="icon-globe iconLeft" href="https://main.polybees.network" target="_blank">Fariztiger</a> &nbsp;
+        <a class="icon-ghub iconLeft" href="https://dev.polybees.network" target="_blank">Github Profile</a> &nbsp;
       </div>
       <div class="push-bottom">
         This app is frequently maintained by the developer to help improve it at no cost to anyone but the developer.
